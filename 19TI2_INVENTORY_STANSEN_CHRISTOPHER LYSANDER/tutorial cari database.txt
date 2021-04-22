@@ -1,0 +1,6 @@
+Cara melihat database Microsoft Office Access :
+1. Masuk ke folder Inventory
+2. Masuk ke bin, kemudian debug
+3. Lalu terakhir masuk ke "Database"
+
+Terima kasih, semoga bermanfaat.
